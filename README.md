@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/Mildzz/Mildzz/main/mildzz.gif)
 ## About Me
-I'm Mildzz & I like to make Discord bots, Minecraft plugins, and maybe an occasional website if I feel like it.
+hi i make websites and games
 
 ## Languages <img src="https://raw.githubusercontent.com/Mildzz/Mildzz/main/languages.png" height="20" width="20"/>
  
