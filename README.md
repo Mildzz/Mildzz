@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Mildzz/Mildzz/main/mildzz.gif)
+![Banner](https://github.com/Mildzz/Mildzz/blob/3405b950787470f25fa20fb02c03c07406a911c5/output-onlinegiftools%202.gif)
 ## About Me
 hi i make websites and games
 
